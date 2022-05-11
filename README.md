@@ -21,7 +21,7 @@ now we should think about the following, how is this inventory checking happenin
 and then we start to analyze the behavior of the application
 now we will get the request that it sends to the server
 <br>
-![image](https://user-images.githubusercontent.com/43358190/167750068-e535a5f1-7363-4474-86e2-ab7c9ee08c20.png)<br>
+<img src="https://user-images.githubusercontent.com/43358190/167750068-e535a5f1-7363-4474-86e2-ab7c9ee08c20.png"><br>
 take a look at payload<br>
 is an xml structure<br>
 now we will copy this code<br>
