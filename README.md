@@ -35,8 +35,8 @@ after copying the url
 <img src="https://user-images.githubusercontent.com/43358190/167751691-f60d3a05-7a9e-49a4-b038-4c076c6de8c9.png"><br>
 and that's it, we were able to send the payload and it returned the /etc/passwd from the lab.
 
-##Lab
+## Lab
 https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
 
-##References
+## References
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
