@@ -9,4 +9,4 @@ It is basically an application layer attack, where the attacker injects maliciou
 To understand better, we first need to know the DTD (Document Type Definition). It will define the type of document, and whether or not it will be accepted in the XML structure, as the DTD will process the XML information and will also be responsible for exchanging data between the two different technologies.
 <br>
 As you can see below, the syntax is divided into tags, and the main tag is the one that contains the others, for example in our case it is the John tag, it is called the root tag and what is contained in it are the attributes from prok3z.<br>
-<img src="https://user-images.githubusercontent.com/43358190/167747211-f3565e4d-f1b4-4d4e-bf77-b43ab2b25b2f.png">
+<img src="https://user-images.githubusercontent.com/43358190/167747285-05943069-98a1-415c-88e7-c99f501fd5c6.png">
