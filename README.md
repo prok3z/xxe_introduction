@@ -14,4 +14,8 @@ As you can see below, the syntax is divided into tags, and the main tag is the o
 Considering that the vulnerability consists of creating an external entity to send malicious commands that will be called within a tag contained in the root tag, I will start to put this into practice in the postswuigger lab and show better examples
 <br>
 <img src="https://user-images.githubusercontent.com/43358190/167747562-72934730-82da-4ad1-9e88-d12e48b4f784.png">
-<h4>here we will choose any of these products to start exploiting the xxe vulnerability</h4>
+<h4>here we will choose any of these products to start exploiting the xxe vulnerability</h4><br>
+<img src="https://user-images.githubusercontent.com/43358190/167747936-86774e82-d355-4870-a2f7-60a681baf422.png"><br>
+As you can see, we have the option to check the stocks, and we will check the stock of this product<br>
+now we should think about the following, how is this inventory checking happening on the backend side<br>
+and then we start to analyze the behavior of the application
