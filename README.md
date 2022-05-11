@@ -13,4 +13,4 @@ As you can see below, the syntax is divided into tags, and the main tag is the o
 <br>
 Considering that the vulnerability consists of creating an external entity to send malicious commands that will be called within a tag contained in the root tag, I will start to put this into practice in the postswuigger lab and show better examples
 <br>
-![image](https://user-images.githubusercontent.com/43358190/167747562-72934730-82da-4ad1-9e88-d12e48b4f784.png)
+<img src="https://user-images.githubusercontent.com/43358190/167747562-72934730-82da-4ad1-9e88-d12e48b4f784.png">
