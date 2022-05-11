@@ -19,3 +19,12 @@ Considering that the vulnerability consists of creating an external entity to se
 As you can see, we have the option to check the stocks, and we will check the stock of this product<br>
 now we should think about the following, how is this inventory checking happening on the backend side<br>
 and then we start to analyze the behavior of the application
+now we will get the request that it sends to the server
+<br>
+![image](https://user-images.githubusercontent.com/43358190/167750068-e535a5f1-7363-4474-86e2-ab7c9ee08c20.png)<br>
+take a look at payload<br>
+is an xml structure<br>
+now we will copy this code<br>
+now we will use curl to send our post request<br>
+and throw it to a file called xml.txt<br>
+first of all, I wanted to remind you that for us to solve this lab we will have to see the passwd file of the target<br>
