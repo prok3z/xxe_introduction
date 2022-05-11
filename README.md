@@ -27,7 +27,7 @@ now we will copy this code<br>
 now we will use curl to send our post request<br>
 and throw it to a file called xml.txt<br>
 first of all, I wanted to remind you that for us to solve this lab we will have to see the passwd file of the target
-<img src="https://user-images.githubusercontent.com/43358190/167751762-df320058-94dc-4945-a13c-3d3ef3112b00.png"><br>
+<img src="https://user-images.githubusercontent.com/43358190/167751762-df320058-94dc-4945-a13c-3d3ef3112b00.png">
 let's get this url and using curl we will play our payload
 <img src="https://user-images.githubusercontent.com/43358190/167751486-5b37050e-9e3b-4cc5-a81b-2e5ee2e92037.png">
 after copying the url
